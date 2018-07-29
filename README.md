@@ -49,10 +49,10 @@ To clone and edit this application, you'll need [Git](https://git-scm.com) and [
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Mohamed-94/Mega-Number
+$ git clone https://github.com/Mohamed-94/RedBall-2D-Game
 
 # Go into the repository
-$ cd Mega-Number
+$ cd RedBall-2D-Game
 
 ```
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
