@@ -30,7 +30,7 @@ class RedBall : Form
         BackColor = SystemColors.Window;
         FormBorderStyle = FormBorderStyle.Fixed3D;
         MaximizeBox = false;
-
+        //
         //ResizeRedraw = true;
 
         Timer timer = new Timer();
